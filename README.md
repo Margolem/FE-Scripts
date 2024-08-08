@@ -1,2 +1,1 @@
-# FE-Scripts
-FE Scripts for roblox
+# CREDITS TO THE OWNERS OF THESE SCRIPTS
